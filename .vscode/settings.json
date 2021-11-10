@@ -13,7 +13,7 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
@@ -25,4 +25,14 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "foam.graph.style": {
+    "background": "#202020",
+    "fontSize": 12,
+    "highlightedForeground": "#f9c74f",
+    "node": {
+      "note": "#277da1",
+      "placeholder": "#545454",
+      "feature": "green"
+    }
+  }
 }
