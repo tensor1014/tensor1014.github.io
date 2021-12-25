@@ -1,0 +1,21 @@
+@startuml java collections
+class Vector
+class Stack
+class Queue
+abstract class AbstractList
+interface Collection
+interface Iterable
+interface List
+interface RandomAccess
+interface Clonable
+interface java.io.Serializable
+Iterable <|-- Collection 
+Vector <|-- Stack
+AbstractList <|-- Vector 
+List <|-- Vector 
+' Vector --|> RandomAccess
+' Vector --|> Clonable
+' Vector --|> java.io.Serializable
+Collection <|-- List 
+Collection <|-- Queue
+@enduml

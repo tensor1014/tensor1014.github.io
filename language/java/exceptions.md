@@ -1,0 +1,3 @@
+- `java.util.NoSuchElementException`
+- `java.lang.UnsupportedOperationException`
+- `java.lang.NullPointerException`

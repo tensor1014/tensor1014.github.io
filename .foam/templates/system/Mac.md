@@ -1,0 +1,27 @@
+- Network
+	- ClashX
+- Xcode
+- Account
+	- apple
+	- google
+	- key
+- Homebrew
+- developer
+	- tools
+  	- vscode
+		- ItelliJ
+		- vim, mvim
+	- Golang
+	- Java
+	- NodeJS 
+	- Python
+	- Docker
+	- Database
+    - MySQL
+		- MongoDB
+		- Redis
+- files
+- softwares
+  - dash
+  - wireshark
+	- Surge
